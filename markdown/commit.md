@@ -1,6 +1,7 @@
 ## Commit des changements a nos fichiers
 
 Première étape bien sauvegarder son travail (CTRL+S u Cmd+S selon l'OS) et vérifier qu'on est bien dans le dossier courant (ici EXEMPLEdossier clonage dans S01)
+
 ![image](../ressources/cdverif-folder.png)
 
 Deuxième étape : `git add .` (ne pas oublier l'espace entre add et .)
