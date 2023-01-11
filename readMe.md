@@ -6,13 +6,13 @@ Première étape je vais sur Github pour chercher le repo (projet) qui m'intére
 
 ![image](ressources/github-page.png)
 
-je clique sur code et je choissi le lien ssh du repo et je copie le lien
+je clique sur code et je choisi le lien ssh du repo et je copie le lien
 
 ![image](ressources/ssh.png)
 
 ## Retour sur la Virtual Machine
 
-je suis maintenat sur ma machine j'ouvre un terminal et je me dirige vers le dossier de la saison en cours.
+je suis maintenant sur ma machine j'ouvre un terminal et je me dirige vers le dossier de la saison en cours.
 
 
 ```bash
