@@ -1,7 +1,5 @@
 # Cloner un projet sur github durant la formation
 
-- [Lien pour commit](markdown/commit.md)
-
 ## Sur le Navigateur
 
 Première étape je vais sur Github pour chercher le repo (projet) qui m'intéresse
@@ -64,3 +62,8 @@ code .
 ```
 
 ![image](ressources/vscode.png)
+
+
+## Pour les Commit
+
+[Lien pour commit](markdown/commit.md)
